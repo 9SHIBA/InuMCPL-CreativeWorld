@@ -1,0 +1,14 @@
+name: creative-world
+version: '1.0-SNAPSHOT'
+main: inulabs.creative.creative_core
+author:
+  - inudevlab
+
+commands:
+  creative:
+    description: teleport to creative world
+  c:
+    description: teleport to creative world
+  creative-modify:
+    description: to create and modify the creative world
+
